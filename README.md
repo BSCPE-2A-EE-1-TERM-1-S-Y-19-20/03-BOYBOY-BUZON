@@ -1,4 +1,4 @@
-# 17-CAMPECINO-VILLOREJO
+# BOYBOY-BUZON
 Fundamentals of Electrical Circuits ᜋᜅ ᜊᜆᜌᜈ᜔ ᜐ ᜇᜄᜒᜆ᜔ᜊᜒᜅ᜔ ᜐᜎᜒᜃᜓᜉ᜔ https://maxangelo987.github.io/fec-cpe2b-19-20/
 
 
@@ -6,11 +6,12 @@ Fundamentals of Electrical Circuits ᜋᜅ ᜊᜆᜌᜈ᜔ ᜐ ᜇᜄᜒᜆ᜔�
 <br>
 DELTA-TO-WYE RESISTOR READING USING ARDUINO
 
-[![INSERT YOUR FRITZING PICTURE HERE](https://github.com/BSCPE-2A-EE-1-TERM-1-S-Y-19-20/17-CAMPECINO-VILLOREJO/blob/master/MIDTERM-PROJECT.png]()
+https://github.com/BSCPE-2A-EE-1-TERM-1-S-Y-19-20/03-BOYBOY-BUZON/blob/master/MIDTERM-PROJECT.png
 
 ## FINAL-PROJECT:
 <br>
 CAPACITANCE AND INDUCTANCE READING USING ARDUINO
 
-[![INSERT YOUR FRITZING PICTURE HERE](https://github.com/BSCPE-2A-EE-1-TERM-1-S-Y-19-20/17-CAMPECINO-VILLOREJO/blob/master/FINAL-PROJECT.png
+https://github.com/BSCPE-2A-EE-1-TERM-1-S-Y-19-20/03-BOYBOY-BUZON/blob/master/FINAL-PROJECT.png
+
 
